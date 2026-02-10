@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "kunafa",
+    "title": "كنافة",
+    "description": "كنافة طازجة يومياً",
+    "image": "/Images/Knafeh.jpg"
+  },
+  {
+    "slug": "baklava",
+    "title": "بقلاوة",
+    "description": "بقلاوة مشكلة",
+    "image": "/Images/Bklava.jpg"
+  },
+  {
+    "slug": "jato",
+    "title": "جاتو",
+    "description": "جاتو مشكلة",
+    "image": "/Images/Jato.jpg"
+  }
+]
