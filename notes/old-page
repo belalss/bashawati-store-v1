@@ -17,7 +17,7 @@ const products = [
     id: "1",
     name: "كنافة نابلسية",
     description: "طازجة يوميًا، جبنة نابلسية أصلية.",
-    Image: "/images/knafeh.jpg",
+    Image: "/Images/Knafeh.jpg",
     options: [
       { label: "نصف كيلو", price: 2.75 },
       { label: "كيلو", price: 5.5 },
@@ -27,7 +27,7 @@ const products = [
     id: "2",
     name: "بقلاوة مشكلة",
     description: "طازجة يوميًا، جبنة نابلسية أصلية.",
-    Image: "/images/Bklava.jpg",
+    Image: "/Images/Bklava.jpg",
     options: [
       { label: "نصف كيلو", price: 8 },
       { label: "كيلو", price: 16 },
@@ -37,7 +37,7 @@ const products = [
     id: "3",
     name: " جاتو",
     description: "طازجة يوميًا، جبنة نابلسية أصلية.",
-    Image: "/images/Jato.jpg",
+    Image: "/Images/Jato.jpg",
     options: [
       { label: "قالب كبير ", price: 9 },
       { label: "قالب وسط", price: 7 },
@@ -48,7 +48,7 @@ const products = [
     id: "4",
     name: "كنافة نابلسية",
     description: "طازجة يوميًا، جبنة نابلسية أصلية.",
-    Image: "/images/knafeh.jpg",
+    Image: "/Images/Knafeh.jpg",
     options: [
       { label: "نصف كيلو", price: 2.75 },
       { label: "كيلو", price: 5.5 },
@@ -58,7 +58,7 @@ const products = [
     id: "5",
     name: "بقلاوة مشكلة",
     description: "طازجة يوميًا، جبنة نابلسية أصلية.",
-    Image: "/images/Bklava.jpg",
+    Image: "/Images/Bklava.jpg",
     options: [
       { label: "نصف كيلو", price: 8 },
       { label: "كيلو", price: 16 },
@@ -68,7 +68,7 @@ const products = [
     id: "6",
     name: " جاتو",
     description: "طازجة يوميًا، جبنة نابلسية أصلية.",
-    Image: "/images/Jato.jpg",
+    Image: "/Images/Jato.jpg",
     options: [
       { label: "قالب كبير ", price: 9 },
       { label: "قالب وسط", price: 7 },
